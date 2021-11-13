@@ -1,0 +1,171 @@
+body{
+    background-color: #000000;
+    color: white;
+
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 1rem;
+}
+
+h1{
+  position: relative;
+  top: 20%;
+    color: #F0A500;
+    font-size: 5rem;
+    font-family: "Sacramento", cursive;
+}
+
+
+h2{
+  color: #F0A500;
+    font-family: "Montserrat", sans-serif;
+}
+h3{
+  color: #F0A500;
+    font-family: "Montserrat", sans-serif;
+}
+hr{
+  border: dotted #F0A500 6px;
+  border-bottom: none;
+  background-color: black;
+  opacity: 1;
+  width: 4%;
+  margin: 10% auto 10% auto;
+}
+a{
+  color: white;
+    font-family: "Merriweather", serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+.nav1{
+  font-size: 0.75rem;
+}
+
+.top-container{
+
+    background-color: #000000;
+    height:300px;
+    width: 60%;
+    margin: auto;
+    text-align: left;
+
+}
+.intro{
+  padding-top: 10%;
+}
+.Hello{
+    position: absolute;
+    left: 35%;
+    bottom: 55%;
+    font-family: "Montserrat", sans-serif;
+}
+.programmer{
+  color: #F0A500;
+  font-size: 1.5rem;
+
+
+}
+.cloud{
+position: relative;
+ float: left;
+  width: 50%;
+
+
+}
+.shadow{
+  position: relative;
+}
+
+.gif{
+
+  margin: auto;
+  width: 50%;
+
+}
+
+.itar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.personal{
+  margin: auto;
+  margin-bottom: 10%;
+  width: 20%;
+}
+.profile{
+
+  margin: auto;
+  width: 50%;
+
+}
+.middle-container{
+  position: relative;
+  line-height: 2;
+
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+
+}
+.bottom-container{
+  background-color: #F0A500;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  width:50%;
+  margin: auto;
+}
+.Questions{
+  margin: auto;
+  width: 50%;
+}
+.thanks{
+  margin: auto;
+  width: 50%;
+}
+.copy-right{
+  font-size: 0.75rem;
+  color: #334756;
+  padding: 20px 0;
+}
+.contact-me{
+  width: 50%;
+  margin: 200px auto 200px auto;
+  line-height: 2;
+}
+.btn {
+  background: #edca1a;
+  background-image: -webkit-linear-gradient(top, #edca1a, #F0A500);
+  background-image: -moz-linear-gradient(top, #edca1a, #F0A500);
+  background-image: -ms-linear-gradient(top, #edca1a, #F0A500);
+  background-image: -o-linear-gradient(top, #edca1a, #F0A500);
+  background-image: linear-gradient(to bottom, #edca1a, #F0A500);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: "Merriweather", serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 8px 23px 10px 20px;
+  margin: auto;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #fce23c;
+  background-image: -webkit-linear-gradient(top, #fce23c, #edb53b);
+  background-image: -moz-linear-gradient(top, #fce23c, #edb53b);
+  background-image: -ms-linear-gradient(top, #fce23c, #edb53b);
+  background-image: -o-linear-gradient(top, #fce23c, #edb53b);
+  background-image: linear-gradient(to bottom, #fce23c, #edb53b);
+  text-decoration: none;
+}
